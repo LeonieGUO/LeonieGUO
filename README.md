@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on how to type well via obsidiant and Typst.
 - 📫 How to reach me :xiajieguo2004@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love drinking beer～
+- ⚡ Fun fact: I love 古文字學～
 
 <!---
 LeonieGUO/LeonieGUO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
